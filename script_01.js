@@ -48,7 +48,7 @@
 // console.log( (isJohnOlder) ? "John is older" : "Mark is older");
 
 
-/************ IF - ELSE - IF ************/
+/************ IF - ELSE IF ************/
 // mit alternativen Fällen (älter, jünger, gleich alt)
 
 // if (isJohnOlder)                // true. auch Ja-Zweig genannt
